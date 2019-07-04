@@ -1,4 +1,4 @@
-sign=''
+sign=1
 while( sign ~= 119)
 
     %clear,clc
