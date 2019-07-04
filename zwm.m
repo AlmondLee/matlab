@@ -1,5 +1,5 @@
 sign=''
-while( sign ~= "q")
+while( sign ~= 119)
 
     %clear,clc
     %syms s t
@@ -18,6 +18,6 @@ while( sign ~= "q")
 
     %fprintf('value of a: %d', a);
     %a = a + 1;
-    input('输入q退出, 回车继续')
+    input('输入119退出, 任意键继续')
 end
 
