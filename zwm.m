@@ -1,5 +1,5 @@
 sign=''
-while( sign != "q")
+while( sign ~= "q")
 
     %clear,clc
     %syms s t
